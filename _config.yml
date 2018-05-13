@@ -1,4 +1,4 @@
-# This is the default format.
+﻿# This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:title
 # https://help.github.com/articles/migrating-your-pages-site-from-maruku
@@ -17,22 +17,17 @@ tags_path : tags.html
 #BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
 BASE_PATH : http://goileo.top
 
-description : 深沉的意志，恢宏的想象和炽热的情感
-title : Goileo Lee
+description : 来自安徽大别山贫困山区的孩子
+title : Liu Pengfei
 logo : /assets/images/avatar.jpg
 #cover : /assets/images/background-cover.jpg
 
 
 author:
-  name: Goileo Lee
+  name: Liu Pengfei
   maxim: Stay hungry,Stay foolish
   role: Jekyll Theme
-  email: goileolee@gmail.com
-  github: goileolee
-  twitter: goileolee
-  facebook: goileolee
-  googleplus: +goileolee
-  bio: "Hi, 我是goileolee"
+  bio: "Hi, 我是刘鹏飞"
   uno-dbyll: /assets/images/avatar.jpg
 
 theme: jekyll-theme-cayman
