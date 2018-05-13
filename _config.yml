@@ -14,9 +14,6 @@ paginate_path: "page/:num"
 categories_path : categories.html
 tags_path : tags.html
 
-#BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
-BASE_PATH : http://goileo.top
-
 description : 来自安徽大别山贫困山区的孩子
 title : Liu Pengfei
 logo : /assets/images/avatar.jpg
